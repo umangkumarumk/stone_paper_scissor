@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.stone_paper_scissor">
    <application
-        android:label="stone_paper_scissor"
+        android:label="Rock Paper Scissors"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
